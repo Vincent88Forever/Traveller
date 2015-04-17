@@ -34,14 +34,14 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:src="@drawable/file_c" />
+                android:src="@drawable/file" />
 
             <ImageView
                 android:id="@+id/MessageImageView"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:src="@drawable/home" />
+                android:src="@drawable/home_c" />
 
             <ImageView
                 android:id="@+id/LocationImageView"
